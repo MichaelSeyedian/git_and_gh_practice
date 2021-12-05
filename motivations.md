@@ -1,0 +1,3 @@
+- Escape customer-facing positions.
+- Do something I enjoy.
+- Build a marketable, future-proof trade.
