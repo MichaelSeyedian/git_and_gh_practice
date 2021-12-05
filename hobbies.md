@@ -1,0 +1,3 @@
+- Learning programming.
+- Reading sci-fi & non-fiction books.
+- Playing guitar.
